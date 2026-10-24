@@ -1,4 +1,4 @@
-# Yanchang Wu
+# Jason
 
 I am a Finance undergraduate at East China University of Science and Technology, with a minor in Computer Science and Technology. I am interested in programming, financial data analysis, and building tools that make research workflows more useful and efficient.
 
