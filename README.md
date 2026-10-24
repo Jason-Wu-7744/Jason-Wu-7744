@@ -6,13 +6,15 @@ My path from English to Finance led me to study mathematics, statistics, econome
 
 ## Project work
 
-### AI Financial Report Screening and Analysis System
+### Flagship project: Financial Report Analyzer
 
-I developed a web-based financial-report analysis tool using AI-assisted coding tools, including Codex and Cursor. The application combines report retrieval, PDF parsing, financial-metric extraction, language-model analysis, and Excel export.
+[Explore the repository](https://github.com/Jason-Wu-7744/Financial-Report-Analyzer) · [Architecture](https://github.com/Jason-Wu-7744/Financial-Report-Analyzer/blob/main/docs/ARCHITECTURE.md) · [English research example](https://github.com/Jason-Wu-7744/Financial-Report-Analyzer/blob/main/samples/hk-00700-hk-2025h1-en.md)
 
-The project grew out of my exposure to company and industry research during an investment research internship. I developed reusable instructions to produce concise summaries in a consistent format and shared the tool with former internship colleagues for trial use.
+I developed a bilingual financial-report research workbench with AI-assisted coding tools, including Codex and Cursor. It connects official CNINFO/HKEX filing discovery, PDF evidence selection, operating summaries, seven-section research memos, independent risk review, and exports.
 
-This project reflects my interest in connecting financial research needs with practical software. I am continuing to develop my programming skills through implementation, testing, and iteration.
+The project grew out of my exposure to investment research and my interest in turning repetitive financial-analysis tasks into practical software. Its engineering features include explicit evidence-gap states, accounting-scope checks, targeted repair, resumable background jobs, and protected figures and references in English exports.
+
+The public v8.1 snapshot includes source code, historical examples, architecture notes and a regression suite. The local release check passed 296 tests plus 8 subtests; this does not establish audited financial accuracy. [Development notes](https://github.com/Jason-Wu-7744/Financial-Report-Analyzer/blob/main/docs/PROJECT_NOTES.md) explain the AI-assisted approach and current limitations.
 
 ### Japan Travel Ledger
 
