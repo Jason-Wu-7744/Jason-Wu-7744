@@ -28,9 +28,9 @@ Three course archives, organized by individual assignment. They retain the educa
 | --- | --- | --- |
 | Financial Numerical Analysis | 14 assignments, shared notes and supplementary practice | [View coursework](https://github.com/Jason-Wu-7744/Financial-Numerical-Analysis) |
 | Financial Engineering | 4 assignments on hedging and options | [View coursework](https://github.com/Jason-Wu-7744/Financial-Engineering) |
-| Big Data and Financial Computing | 8 assignments, classroom exercises and a course paper | [View coursework](https://github.com/Jason-Wu-7744/Big-Data-Financial-Computing) |
+| Big Data and Financial Computing | 8 assignments and a course paper | [View coursework](https://github.com/Jason-Wu-7744/Big-Data-Financial-Computing) |
 
-Publication checks cover Python syntax and documentation links. The archived algorithms and historical financial conclusions have not been fully rerun or independently validated. Assigned methods are identified as coursework, and AI-assisted variants are labeled where known.
+Teacher slides, handouts, original assignment statements, supplied datasets and unresolved classroom-reference code are excluded from the current course archives. Publication checks cover Python syntax and documentation links. The archived algorithms and historical financial conclusions have not been fully rerun or independently validated. Assigned methods are identified as coursework, and AI-assisted variants are labeled where known.
 
 ## Analytical experience
 
