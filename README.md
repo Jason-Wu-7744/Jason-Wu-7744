@@ -1,5 +1,7 @@
 # Jason
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 I am a Finance undergraduate at East China University of Science and Technology, with a minor in Computer Science and Technology. I am interested in programming, financial data analysis, and building tools that make research workflows more useful and efficient.
 
 My path from English to Finance led me to study mathematics, statistics, econometrics, and computing. I enjoy turning a financial question or a repetitive task into something I can investigate with data or implement in software.
@@ -22,15 +24,13 @@ The public v8.1 snapshot includes source code, historical examples, architecture
 
 ## Quantitative coursework
 
-Three course archives, organized by individual assignment. They retain the educational implementations, labeled alternatives, input-data notes and known limitations.
+[Programming Coursework Portfolio](https://github.com/Jason-Wu-7744/programming-coursework) brings my coursework into one collection, organized by course and individual assignment:
 
-| Course | Organization | Repository |
-| --- | --- | --- |
-| Financial Numerical Analysis | 14 assignments, shared notes and supplementary practice | [View coursework](https://github.com/Jason-Wu-7744/Financial-Numerical-Analysis) |
-| Financial Engineering | 4 assignments on hedging and options | [View coursework](https://github.com/Jason-Wu-7744/Financial-Engineering) |
-| Big Data and Financial Computing | 8 assignments and a course paper | [View coursework](https://github.com/Jason-Wu-7744/Big-Data-Financial-Computing) |
+- **Financial Numerical Analysis:** 14 assignment folders covering Python, numerical methods and financial applications.
+- **Financial Engineering:** 4 assignments on futures hedging, option sensitivity and implied volatility.
+- **Big Data and Financial Computing:** 8 assignments, a course paper and supplementary practice on asset pricing, portfolios, volatility and risk.
 
-Teacher slides, handouts, original assignment statements, supplied datasets and unresolved classroom-reference code are excluded from the current course archives. Publication checks cover Python syntax and documentation links. The archived algorithms and historical financial conclusions have not been fully rerun or independently validated. Assigned methods are identified as coursework, and AI-assisted variants are labeled where known.
+English is the default documentation language, with Chinese options. Teacher slides, original handouts, supplied datasets and unresolved classroom-reference code are excluded. Publication checks cover syntax and documentation links; archived financial results have not been fully rerun or independently validated.
 
 ## Analytical experience
 
