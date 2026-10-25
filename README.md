@@ -20,6 +20,18 @@ The public v8.1 snapshot includes source code, historical examples, architecture
 
 [Japan Travel Ledger](https://github.com/Jason-Wu-7744/japan-travel-ledger) is a local-first Android expense tracker for travel in Japan. It supports expense entry, manual categories, spending summaries, JPY-to-CNY conversion, and CSV export.
 
+## Quantitative coursework
+
+Three course archives, organized by individual assignment. They retain the educational implementations, labeled alternatives, input-data notes and known limitations.
+
+| Course | Organization | Repository |
+| --- | --- | --- |
+| Financial Numerical Analysis | 14 assignments, shared notes and supplementary practice | [View coursework](https://github.com/Jason-Wu-7744/Financial-Numerical-Analysis) |
+| Financial Engineering | 4 assignments on hedging and options | [View coursework](https://github.com/Jason-Wu-7744/Financial-Engineering) |
+| Big Data and Financial Computing | 8 assignments, classroom exercises and a course paper | [View coursework](https://github.com/Jason-Wu-7744/Big-Data-Financial-Computing) |
+
+Publication checks cover Python syntax and documentation links. The archived algorithms and historical financial conclusions have not been fully rerun or independently validated. Assigned methods are identified as coursework, and AI-assisted variants are labeled where known.
+
 ## Analytical experience
 
 - **Python:** pandas, NumPy, statsmodels, and Matplotlib for financial-data cleaning, regression analysis, numerical methods, and visualization.
