@@ -30,7 +30,7 @@ The public v8.1 snapshot includes source code, historical examples, architecture
 - **Financial Engineering:** 4 assignments on futures hedging, option sensitivity and implied volatility.
 - **Big Data and Financial Computing:** 8 assignments, a course paper and supplementary practice on asset pricing, portfolios, volatility and risk.
 
-English is the default documentation language, with Chinese options. Teacher slides, original handouts, supplied datasets and unresolved classroom-reference code are excluded. Publication checks cover syntax and documentation links; archived financial results have not been fully rerun or independently validated.
+Browse the collection for assignment topics, Python implementations and selected Matplotlib figures, with English and Chinese documentation.
 
 ## Analytical experience
 
